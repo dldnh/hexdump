@@ -1,0 +1,3 @@
+# .swiftlint.yml (don't forget the dot)
+trailing_comma:
+  mandatory_comma: true
